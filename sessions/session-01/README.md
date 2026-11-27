@@ -1,6 +1,6 @@
 # Session 1: A table is a grid, a query asks it a question
 
-[Session 1 — हिन्दी](README.hi.md)
+[Session 1 — हिन्दी](README.hi.md) · [Session 1 — മലയാളം](README.ma.md)
 
 *Level 1 (conceptual interactive model) · about 60 minutes · opensql*
 
